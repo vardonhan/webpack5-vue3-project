@@ -1,6 +1,10 @@
 {
   "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/preset-typescript": "^7.16.7",
     "@vue/compiler-sfc": "^3.2.26",
+    "babel-loader": "^8.2.3",
     "css-loader": "^6.5.1",
     "html-webpack-plugin": "^5.5.0",
     "postcss-loader": "^6.2.1",
